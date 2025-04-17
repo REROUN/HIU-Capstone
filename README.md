@@ -58,6 +58,8 @@
   <img src="https://img.shields.io/badge/pandas-0078d7.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-0078d7.svg?style=for-the-badge&logo=bootstrap&logoColor=whi능
 
+<br/>
+
 # 4️⃣ 데이터 전처리
 
 - Geopandas 데이터셋의### 팀원 소개
