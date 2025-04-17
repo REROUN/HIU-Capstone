@@ -84,6 +84,20 @@
 
 ![image](https://github.com/user-attachments/assets/a519e215-ed8d-458e-860a-519101fcf3e7)
 
+- 데이터셋이 부족하므로 세종시 데이터셋은 Testset으로 활용, 이외 전기차 등록이 많은 세종시와 인접한 지역을 찾아 Trainset 전처리
+
+![image](https://github.com/user-attachments/assets/17172a7b-ff00-474e-8edb-e9ab46b45aed)
+![image](https://github.com/user-attachments/assets/1ead316e-4264-4074-bb1d-78430427450b)
+
+- Trainset과 Testset 각각 label의 비율이 0.985 : 0.015, 0.993 : 0.007로 불균형
+
+![image](https://github.com/user-attachments/assets/3ba1ddbd-e88e-4dca-84fd-266d7c001917)
+
+- 언더샘플링과 오버샘플링을 통해 데이터증강
+
+![image](https://github.com/user-attachments/assets/7e621684-514c-4851-bce5-924fb9ced20d)
+
+<br/>
 
 # 5️⃣ 모델 적용 및 평가
 
