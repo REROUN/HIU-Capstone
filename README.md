@@ -71,7 +71,19 @@
 
 ![image](https://github.com/user-attachments/assets/819f989b-0c6e-4121-b926-ae7a1803d5da)
 
-  
+- 주소만 표기된 데이터는 카카오맵 API를 활용하여 위도, 경도 데이터 생성
+
+![image](https://github.com/user-attachments/assets/594bb8b3-ce5b-4cb9-b3bd-18c3ad17604c)
+
+- 충전소가 세종시 격자 내에 존재 여부 확인 및 좌표계 데이터 생성
+
+![image](https://github.com/user-attachments/assets/91be46ac-a002-40c9-b164-e6495bd3067d)
+![image](https://github.com/user-attachments/assets/7c6b17c1-aab3-4772-8c60-4b11a6450bad)
+
+- 세종시 데이터 변환 결과
+
+![image](https://github.com/user-attachments/assets/a519e215-ed8d-458e-860a-519101fcf3e7)
+
 
 # 5️⃣ 모델 적용 및 평가
 
