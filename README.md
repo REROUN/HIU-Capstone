@@ -67,7 +67,11 @@
 
 ![image](https://github.com/user-attachments/assets/70049d9c-d6aa-4a5f-b258-4fedab7742e2)
 
-- 
+- 인구수, 건축물수, 주거용면적, 건축물 높이, 건축물 연면적 데이터는 100m x 100m인 격자로 이루어져 있으며 모두 GRS80 좌표계를 사용하고 있으므로 통일성을 위해 WGS84 좌표계를 GRS80으로 변환
+
+![image](https://github.com/user-attachments/assets/819f989b-0c6e-4121-b926-ae7a1803d5da)
+
+  
 
 # 5️⃣ 모델 적용 및 평가
 
