@@ -121,5 +121,20 @@
 
   ![image](https://github.com/user-attachments/assets/755fce47-b1fd-4f24-ab75-ddbdeae09541)
 
+<br/>
 
-# 6️⃣ 기대 효과
+# 6️⃣ 결과
+- 세종시 내 최적 입지 우선 순위로 13곳이 선정됨
+
+![image](https://github.com/user-attachments/assets/1322aafa-e29c-4226-b174-ef532b8e7e79)
+
+- 기존 입지(빨강)과 최적 입지 추천 장소(파랑) 비교
+
+![image](https://github.com/user-attachments/assets/1366fd0f-a63a-4aeb-a328-fccb1d164dc4)
+
+<br/>
+
+# 7️⃣ 기대 효과
+- 전기차 이용하는 시민들의 편리성을 높임
+- 전기차 충전소 이해관계자에게 최적 입지 솔루션 제공
+- 정책 달성을 위해 전기차 입지 선정시 최적의 위치 탐색 자료로 활용 가능
