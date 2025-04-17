@@ -117,8 +117,9 @@
   
   ![image](https://github.com/user-attachments/assets/be8af633-9b40-42d0-9611-f9251632076f)
 
-  - Deeplearning (준수한 성능을 보였으며 Thresholde가 오를 수록 높은 성능을 보임)
+  - Deeplearning (준수한 성능을 보였으며 Thresholde가 오를 수록 높은 성능을 보임, 최적 입지는 총 24곳)
 
-  
+  ![image](https://github.com/user-attachments/assets/755fce47-b1fd-4f24-ab75-ddbdeae09541)
+
 
 # 6️⃣ 기대 효과
