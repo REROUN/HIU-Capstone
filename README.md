@@ -19,7 +19,7 @@
       <a href=''>길경서</a><br />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/cc530771-7cb4-4cf7-88de-136062c51032" width=200 alt="hansol"/><br />
+      <img src="https://github.com/user-attachments/assets/2ac872ec-4bdf-4641-89fb-ad6b7a25ffef" width=200 alt="hansol"/><br />
       <a href=''>최재우</a><br />
     </td>
   </thead>
