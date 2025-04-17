@@ -100,5 +100,25 @@
 <br/>
 
 # 5️⃣ 모델 적용 및 평가
+- 우리는 충전소가 없는 위치에 충전소가 있다고 모델이 분류한 것을 최적입지로 선정하기 위해 Fals Positive를 활용
+- 데이터 증강을 통해 label을 균형있게 맞췄으나 데이터 자체는 매우 불균형하기에 평가를 F1 Score와 Micro 평균으로 평가
+- GrideSearchCV를 활용하여 최적의 파라미터를 구하려 하였으나 K-Fold Cross Validation에서 불균형한 데이터셋은 데이터가 고르게 분포되지 않을 수 있기에 OPTUNA를 적용하여 최적의 하이퍼파라미터를 구함
+- 평가
+  - Random Forest (F1 Score가 0.9를 넘는 모델들의 최적 입지는 총 22곳)
+
+  ![image](https://github.com/user-attachments/assets/dabb76f7-0225-4212-a6a4-499d9fe8c43e)
+  ![image](https://github.com/user-attachments/assets/567c7377-8b0f-4665-9e88-16dde11b7ad7)
+  
+  - LightGBM (F1 Score가 0.9를 넘는 모델이 없어 제외)
+
+  ![image](https://github.com/user-attachments/assets/853be93d-8eec-47a0-bd55-2433a5793dc2)
+   
+  - Catboost (Catboost는 언더샘플링에서 매우 우수한 성능을 보임 최적 입지는 총 19곳)
+  
+  ![image](https://github.com/user-attachments/assets/be8af633-9b40-42d0-9611-f9251632076f)
+
+  - Deeplearning (준수한 성능을 보였으며 Thresholde가 오를 수록 높은 성능을 보임)
+
+  
 
 # 6️⃣ 기대 효과
